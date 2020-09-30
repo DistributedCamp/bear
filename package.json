@@ -1,0 +1,22 @@
+{
+  "name": "bear",
+  "version": "1.0.0",
+  "description": "Bear consumes the latest Apricot and tries not to break",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DistributedCamp/bear.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "alexwykoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DistributedCamp/bear/issues"
+  },
+  "homepage": "https://github.com/DistributedCamp/bear#readme"
+}
